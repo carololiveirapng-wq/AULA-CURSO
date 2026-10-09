@@ -1,0 +1,15 @@
+Klonei — Relatório de Mirror
+==================================
+URL: https://ecozoh.webflow.io/home
+Capturado em: 2026-10-08T23:43:03.845Z
+
+Recursos detectados na página: 101
+Assets estáticos tentados: 99
+Baixados para o mirror: 99
+Falharam: 0
+
+Nenhuma falha registrada. 🎉
+
+Obs.: recursos que falharam mantêm a URL original no HTML (carregam
+da web quando o clone é servido com internet). Envie este arquivo
+para diagnóstico se algo estiver faltando.
